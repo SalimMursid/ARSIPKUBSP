@@ -2,7 +2,7 @@
     <div class="pull-right">
 
     </div>
-    <strong><a href="https://www.adoniasite.com/" target="_blank">PT. Bahari Sandi Pratama</a> &copy; <?php echo date('Y'); ?></strong>, Template by : <a href="">Salim Mursi</a>.
+    <strong><a href="https://www.adoniasite.com/" target="_blank">PT. Bahari Sandi Pratama</a> &copy; <?php echo date('Y'); ?></strong>, Template by : <a href="">Salim Mursid</a>.
 </footer>
 <!-- ./wrapper -->
 <!-- jQuery 3 -->
