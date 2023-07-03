@@ -236,7 +236,7 @@ CREATE TABLE `scan_utama` (
 --
 
 INSERT INTO `scan_utama` (`id`, `id_user`, `nama_file`, `date_upload`, `date_edit`, `jam_upload`, `jam_edit`, `file_upload`) VALUES
-(28, 15, 'foto 1', '2019-10-12', '0000-00-00', '21:25:15', '00:00:00', 'photo4_(1).jpg'),
+(28, 15, 'foto 1', '2019-10-12', '0000-00-00', '21:25:15', '00:00:00', 'photo4_(1).'),
 (29, 15, 'foto 2', '2019-10-12', '2019-10-12', '21:25:29', '21:25:57', 'photo3.jpg');
 
 --
