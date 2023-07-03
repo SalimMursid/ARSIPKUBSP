@@ -9,7 +9,7 @@
 <!------ Include the above in your HEAD tag ---------->
 <style type="text/css">
     body {
-        background: url('<?php echo base_url(); ?>/assets/dist/img/.jfif') no-repeat center center fixed;
+        background: url('<?php echo base_url(); ?>/assets/dist/img/file2.jfif') no-repeat center center fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         background-size: cover;
