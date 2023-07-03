@@ -139,7 +139,7 @@ class User extends CI_Controller
 
         if ($this->form_validation->run() == false) {
 
-            $data['title'] = 'Laporan Keuanga';
+            $data['title'] = 'Laporan Keuangan';
             $data['user'] = $this->db->get_where('mst_user', ['username' => $this->session->userdata('username')])->row_array();
             $data['lap_harian_saya'] = $this->get_laporan->getLapHarian();
 
